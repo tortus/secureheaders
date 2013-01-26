@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gemspec
 
-group :test do
+group :development do
   gem 'guard-spork'
   gem 'guard-rspec'
   gem 'growl'
